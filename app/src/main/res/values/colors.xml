@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="chocolate">#461220</color>
+    <color name="cordvon">#8C2F39</color>
+    <color name="cherry">#B23A48</color>
+    <color name="melon">#FCB9B2</color>
+    <color name="apricot">#FED0BB</color>
+    <color name="deftblue">#454B66</color>
+    <color name="magnolia">#F8F1FF</color>
+    <color name="rosequarts">#BAACBD</color>
+    <color name="french">#C9C5CB</color>
+    <color name="dimgrey">#646E68</color>
+    <color name="dutch">#F0E7D8</color>
+</resources>
